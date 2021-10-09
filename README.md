@@ -1,1 +1,1 @@
-# Source for eamonma.com
+Mac Niu's website copied from eamonma.com
