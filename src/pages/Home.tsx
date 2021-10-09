@@ -68,8 +68,8 @@ const Home = () => {
     return (
         <div>
             <AppComponent initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                <Name>Eamon Ma</Name>
-                <Title>React, Node, GraphQL</Title>
+                <Name>Mac Niu</Name>
+                <Title>Python, C/C++, Dark Souls Aficionado</Title>
                 <Section>
                     <SectionHeading>projects</SectionHeading>
                     {projects.map((project) => (
@@ -106,16 +106,16 @@ const Home = () => {
                 <Section>
                     <SectionHeading>contact</SectionHeading>
                     <ContactJuice>
-                        <ContactLink href="mailto:m@eamonma.com">
+                        <ContactLink href="mailto:macdeininiu@gmail.com">
                             Email
                         </ContactLink>
-                        <ContactLink href="https://instagram.com/eam.on">
+                        <ContactLink href="https://www.instagram.com/mac.niu/">
                             Instagram
                         </ContactLink>
-                        <ContactLink href="https://github.com/eamonma">
+                        <ContactLink href="https://github.com/Macdeini">
                             GitHub
                         </ContactLink>
-                        <ContactLink href="https://linkedin.com/in/eamonma">
+                        <ContactLink href="https://www.linkedin.com/in/macdeininiu/">
                             LinkedIn
                         </ContactLink>
                     </ContactJuice>
